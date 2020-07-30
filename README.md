@@ -1,6 +1,7 @@
 # jobs2
 
-A new Flutter application.
+
+ The Odd Job Finder is a Flutter application that helps you hire people for odd jobs at home as well as apply for the same.
 
 ## Getting Started
 
